@@ -775,3 +775,71 @@ body {
 
     z-index: 2;
 }
+
+
+
+/* ======================================================================================================================================================
+   RESPONSIVE
+====================================================================================================================================================== */
+
+@media (max-width: 768px) {
+
+    .hero {
+
+    padding: 140px 32px 80px 32px;
+
+    gap: 212px;
+}
+
+.hero-image {
+
+    width: 100%;
+
+    display: flex;
+    justify-content: flex-end;
+}
+
+.hero-image img {
+
+    width: 320px;
+    height: 320px;
+}
+
+/* TITRES */
+
+.firstname,
+.lastname {
+
+    font-size: 84px;
+}
+
+/* GAME DESIGNER / UNITY */
+
+h2 {
+
+    font-size: 20px;
+    line-height: 1.5;
+
+    margin-bottom: 32px;
+}
+
+/* TEXTES GENERAUX */
+
+p,
+.project-description,
+.project-list li,
+.meta-text {
+
+    font-size: 22px;
+    line-height: 1.8;
+}
+
+/* TITRES PROJETS */
+
+h4 {
+
+    font-size: 64px;
+}
+}
+
+
