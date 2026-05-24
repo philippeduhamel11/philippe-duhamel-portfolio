@@ -493,7 +493,7 @@ h4 {
 
 .platform-tags {
     display: flex;
-    flex-wrap: nowrap;
+    flex-wrap: wrap;
     gap: 0.8rem;
     margin-top: 1rem;
 }
@@ -793,32 +793,36 @@ body {
         padding: 96px 32px;
     }
 
-   /* NAVBAR */
+  /* NAVBAR */
 
-.navbar {
+    .navbar {
 
-    padding: 20px 24px;
+        padding: 20px 16px;
 
-    flex-wrap: wrap;
+        overflow-x: hidden;
+    }
 
-    gap: 16px;
-}
+    .nav-links {
 
-.nav-logo {
+        gap: 14px;
 
-    font-size: 16px;
-}
+        flex-wrap: wrap;
 
-.nav-links {
+        justify-content: flex-end;
+    }
 
-    gap: 18px;
+    .nav-links a {
 
-    flex-wrap: wrap;
-}
+        font-size: 14px;
+    }
 
-.nav-links a {
+    /* PLATFORM TAGS */
 
-    font-size: 15px;
+    .platform-tags {
+
+        flex-wrap: wrap;
+    }
+
 }
 
     /* HERO */
