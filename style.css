@@ -802,18 +802,18 @@ body {
 
     .nav-logo {
 
-        font-size: 18px;
+        font-size: 16px;
         white-space: nowrap;
     }
 
     .nav-links {
 
-        gap: 14px;
+        gap: 12px;
     }
 
     .nav-links a {
 
-        font-size: 14px;
+        font-size: 12px;
     }
 
     /* HERO */
