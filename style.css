@@ -790,14 +790,14 @@ body {
     }
 
     .section {
-        padding: 84px 32px;
+        padding: 96px 32px;
     }
 
     /* NAVBAR */
 
     .navbar {
 
-        padding: 20px 28px;
+        padding: 20px 64px;
     }
 
     .nav-logo {
