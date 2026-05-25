@@ -810,6 +810,7 @@ body {
     .nav-links {
 
         gap: 13px;
+        margin-left: 20px;
     }
 
     .nav-links a {
