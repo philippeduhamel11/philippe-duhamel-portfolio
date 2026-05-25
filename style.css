@@ -775,7 +775,37 @@ body {
 
     z-index: 2;
 }
+.platform-tags a {
 
+    display: inline-flex;
+
+    align-items: center;
+    justify-content: center;
+
+    padding: 10px 10px;
+
+    border: 1px solid #d7c4b1;
+
+    border-radius: 999px;
+
+    text-decoration: none;
+
+    color: #1f1f1f;
+
+    font-size: 16px;
+
+    line-height: 1;
+
+    white-space: nowrap;
+
+    transition: 0.2s ease;
+}
+.platform-tags a:hover {
+
+    background: #d7c4b1;
+
+    color: white;
+}
 
 /* =========================
    MOBILE CLEAN
