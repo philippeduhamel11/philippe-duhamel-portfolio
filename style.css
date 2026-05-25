@@ -1047,12 +1047,14 @@ body {
         order: 2;
     }
 
-    .project-title {
+.project-title {
 
-        font-size: 62px;
+    font-size: 52px;
 
-        line-height: 0.95;
-    }
+    line-height: 0.95;
+
+    word-break: break-word;
+}
 
     .project-intro {
 
