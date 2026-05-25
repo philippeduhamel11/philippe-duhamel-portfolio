@@ -797,24 +797,24 @@ body {
 
     .navbar {
 
-        padding: 20px 64px;
+        padding: 20px 28px;
     }
 
     .nav-logo {
 
-        font-size: 16px;
+        font-size: 18px;
         white-space: nowrap;
-        margin-left: -24px;
+        margin-left: -38px;
     }
 
     .nav-links {
 
-        gap: 12px;
+        gap: 14px;
     }
 
     .nav-links a {
 
-        font-size: 12px;
+        font-size: 14px;
     }
 
     /* HERO */
