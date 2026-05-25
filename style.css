@@ -807,7 +807,7 @@ body {
 
     .nav-links {
 
-        gap: 24px;
+        gap: 212px;
     }
 
     .nav-links a {
@@ -893,11 +893,11 @@ body {
     /* TITRES */
 
     h3 {
-    font-size: 56px;
+    font-size: 52px;
     }
 
     h4 {
-        font-size: 52px;
+        font-size: 48px;
     }
 
     /* PROJECTS */
@@ -950,6 +950,14 @@ body {
         line-height: 1.8;
     }
 
+    /* PROJECT PAGE TITLES */
+
+.project-title {
+
+    font-size: 56px;
+}
+
+
     /* ABOUT */
 
     .about-section {
@@ -979,7 +987,7 @@ body {
 
     .contact-links a {
 
-        font-size: 28px;
+        font-size: 20px;
     }
 }
 
