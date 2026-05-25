@@ -803,6 +803,7 @@ body {
     .nav-logo {
 
         font-size: 18px;
+        white-space: nowrap;
     }
 
     .nav-links {
