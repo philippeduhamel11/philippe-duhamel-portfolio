@@ -797,7 +797,7 @@ body {
 
     .navbar {
 
-        padding: 24px 32px;
+        padding: 20px 28px;
     }
 
     .nav-logo {
@@ -808,12 +808,12 @@ body {
 
     .nav-links {
 
-        gap: 16px;
+        gap: 14px;
     }
 
     .nav-links a {
 
-        font-size: 16px;
+        font-size: 14px;
     }
 
     /* HERO */
