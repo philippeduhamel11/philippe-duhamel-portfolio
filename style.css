@@ -809,13 +809,13 @@ body {
 
     .nav-links {
 
-        gap: 13px;
-        margin-left: 20px;
+        gap: 12px;
+        margin-left: 16px;
     }
 
     .nav-links a {
 
-        font-size: 14px;
+        font-size: 13px;
     }
 
     /* HERO */
